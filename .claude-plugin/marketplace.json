@@ -1,0 +1,6 @@
+{
+  "name": "claude-toolkit",
+  "owner": { "name": "Eugene Vasilenko" },
+  "description": "Skills, agents, hooks and other tools for Claude Code",
+  "plugins": []
+}
