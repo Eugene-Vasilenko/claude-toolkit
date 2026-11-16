@@ -2,5 +2,11 @@
   "name": "claude-toolkit",
   "owner": { "name": "Eugene Vasilenko" },
   "description": "Skills, agents, hooks and other tools for Claude Code",
-  "plugins": []
+  "plugins": [
+    {
+      "name": "forked-review",
+      "source": "./plugins/forked-review",
+      "description": "Multi-angle code review with forked sessions and prompt caching"
+    }
+  ]
 }

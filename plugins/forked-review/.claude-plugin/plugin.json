@@ -1,0 +1,10 @@
+{
+  "name": "forked-review",
+  "description": "Multi-angle code review using Claude Code session forking and prompt caching: one warm baseline session, an analyze fork that picks the angles, parallel focused review passes (architecture, correctness, security, reuse, hygiene, simplicity, root cause), a consolidation fork that verifies and merges.",
+  "author": { "name": "Eugene Vasilenko" },
+  "homepage": "https://github.com/Eugene-Vasilenko/claude-toolkit/tree/master/plugins/forked-review",
+  "repository": "https://github.com/Eugene-Vasilenko/claude-toolkit",
+  "license": "MIT",
+  "engines": { "claude-code": ">=2.1.257" },
+  "keywords": ["code-review", "review", "skills"]
+}
